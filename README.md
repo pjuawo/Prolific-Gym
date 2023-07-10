@@ -54,8 +54,8 @@ Users should be able to:
 
 ### Links
 
-- Github URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Github URL: [Prolific Gym Repository](https://github.com/pjuawo/Prolific-Gym)
+- Live Site URL: [Prolific Gym ](https://prolific-gym.netlify.app/)
 
 ## My process
 
