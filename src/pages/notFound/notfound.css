@@ -1,0 +1,20 @@
+.notfound__container {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	text-align: center;
+}
+.notfound__container .btn {
+	margin-top: 2rem;
+	display: inline-block;
+}
+.notfound__content {
+	display: grid;
+	gap: 1rem;
+}
+
+@media screen and (max-width: 600px) {
+	.notfound__img {
+		display: none;
+	}
+}
